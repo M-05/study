@@ -1,0 +1,54 @@
+2024-05-26 14:07:49,584 - __main__:   25 - DEBUG - a
+2024-05-26 14:07:49,584 - __main__:   26 - INFO - __main__
+2024-05-26 14:07:49,584 - __main__:   27 - WARNING - bbb
+2024-05-26 14:07:49,584 - __main__:   28 - ERROR - ccc
+2024-05-26 14:07:49,584 - __main__:   29 - SUCCESS - Finished Training!
+2024-05-26 14:07:49,584 - module:    7 - WARNING - add() only supports adding two integers but got float type.
+            Running anyway...
+2024-05-26 14:07:49,584 - __main__:   31 - INFO - 3.0
+2024-05-26 14:11:08,741 - __main__:   25 - DEBUG - a
+2024-05-26 14:11:08,741 - __main__:   26 - INFO - __main__
+2024-05-26 14:11:08,741 - __main__:   27 - WARNING - bbb
+2024-05-26 14:11:08,741 - __main__:   28 - ERROR - ccc
+2024-05-26 14:11:08,741 - __main__:   29 - SUCCESS - Finished Training!
+2024-05-26 14:11:08,741 - __main__:   83 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "/Users/m05/Downloads/hey/main.py", line 81, in <module>
+    main()
+  File "/Users/m05/Downloads/hey/main.py", line 30, in main
+    a = 1 / 0
+ZeroDivisionError: division by zero
+2024-05-26 14:12:55,802 - __main__:   25 - DEBUG - a
+2024-05-26 14:12:55,803 - __main__:   26 - INFO - __main__
+2024-05-26 14:12:55,803 - __main__:   27 - WARNING - bbb
+2024-05-26 14:12:55,803 - __main__:   28 - ERROR - ccc
+2024-05-26 14:12:55,803 - __main__:   29 - SUCCESS - Finished Training!
+2024-05-26 14:12:55,803 - __main__:   85 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "/Users/m05/Downloads/hey/main.py", line 83, in <module>
+    main()
+  File "/Users/m05/Downloads/hey/main.py", line 30, in main
+    a = 1 / 0
+ZeroDivisionError: division by zero
+2024-05-26 14:13:49,730 - __main__:   25 - DEBUG - a
+2024-05-26 14:13:49,730 - __main__:   26 - INFO - __main__
+2024-05-26 14:13:49,730 - __main__:   27 - WARNING - bbb
+2024-05-26 14:13:49,730 - __main__:   28 - ERROR - ccc
+2024-05-26 14:13:49,730 - __main__:   29 - SUCCESS - Finished Training!
+2024-05-26 14:13:49,730 - module:    7 - WARNING - add() only supports adding two integers but got float type.
+            Running anyway...
+2024-05-26 14:13:49,730 - __main__:   31 - INFO - 3.0
+2024-05-26 14:15:32,332 - __main__:   25 - DEBUG - a
+2024-05-26 14:15:32,332 - __main__:   26 - INFO - __main__
+2024-05-26 14:15:32,332 - __main__:   27 - WARNING - bbb
+2024-05-26 14:15:32,332 - __main__:   28 - ERROR - ccc
+2024-05-26 14:15:32,332 - __main__:   29 - SUCCESS - Finished Training!
+2024-05-26 14:15:32,332 - __main__:   31 - INFO - 3.0
+2024-05-26 14:16:51,911 - __main__:   25 - DEBUG - a
+2024-05-26 14:16:51,911 - __main__:   26 - INFO - __main__
+2024-05-26 14:16:51,911 - __main__:   27 - WARNING - bbb
+2024-05-26 14:16:51,911 - __main__:   28 - ERROR - ccc
+2024-05-26 14:16:51,911 - __main__:   29 - SUCCESS - Finished Training!
+2024-05-26 14:16:51,911 - module:    7 - WARNING - add() only supports adding two integers but got float type.
+            Running anyway...
+2024-05-26 14:16:51,911 - __main__:   31 - INFO - 3.0
